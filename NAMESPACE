@@ -1,1 +1,9 @@
+## not yet documented
+export(bagelR.computeAllGuidesBFs_v2)
+export(bagelR.sgRNA_bootStrapped_BFactors)
+export(bagelR.sgRNA_bootStrapped_performances)
+export(bagelR.diagnosticPlots)
+export(bagelR.round_to_hundredth)
+export(bagelR.geneLevel_BFs)
+
 exportPattern("^[[:alpha:]]+")
